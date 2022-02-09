@@ -6,4 +6,5 @@
 40562	2021006357	Criação de relatório - Convocação: Declaração de Acumulo	
 40557	2021006354	Criação de relatório - Convocação: Encargos de Família	
 40555	2021006353	Criação de relatório - Convocação: Check List - Serão 2 Tipos: Check List Documentos_Processo e Check List Documentos_Concurso	
-40580	2021006366	Criação de relatório - Convocação: COMPROVAÇÃO DE RESIDÊNCIA	
+40580	2021006366	Criação de relatório - Convocação: COMPROVAÇÃO DE RESIDÊNCIA
+40554	2021006352	Criação de relatório - Convocação:  BIC -  Boletim de Informações Cadastrais e   BIC_Estagio serão 2 modelos.
