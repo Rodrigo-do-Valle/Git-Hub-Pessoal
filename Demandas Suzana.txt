@@ -1,8 +1,5 @@
 40583	2021006367	Criação de relatório - Boletim de Frequencia_Estagio	
-40576	2021006364	Criação de relatório - Convocação: Nepotismo	
-40572	2021006363	Criação de relatório - Posse: Adiamento de Posse	
 40571	2021006362	Criação de relatório - Posse: Informativo de Estagio Probatorio	
 40568	2021006361	Criação de relatório - Posse: Avaliação de Estagio Probatório	
-40562	2021006357	Criação de relatório - Convocação: Declaração de Acumulo	
 40557	2021006354	Criação de relatório - Convocação: Encargos de Família	
-40580	2021006366	Criação de relatório - Convocação: COMPROVAÇÃO DE RESIDÊNCIA
+
