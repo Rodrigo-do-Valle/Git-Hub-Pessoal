@@ -1,5 +1,0 @@
-40583	2021006367	Criação de relatório - Boletim de Frequencia_Estagio	
-40571	2021006362	Criação de relatório - Posse: Informativo de Estagio Probatorio	
-40568	2021006361	Criação de relatório - Posse: Avaliação de Estagio Probatório	
-40557	2021006354	Criação de relatório - Convocação: Encargos de Família	
-
